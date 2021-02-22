@@ -18,7 +18,7 @@ python3 mpu6050_client.py [IP OF PC RUNNING vJOY FEEDER PROJECT] [PORT]
 
 ## vJoyFeeder:
 Requirements:
-- vJoy
+- [vJoy](http://vjoystick.sourceforge.net/site/index.php/download-a-install/download)
 
 Instructions:
 - Change IP variable to the IP of your PC
